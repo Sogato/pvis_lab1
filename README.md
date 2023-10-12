@@ -9,7 +9,7 @@
 Убедитесь, что у вас установлены необходимые пакеты Python с помощью предоставленного файла requirements.txt. Вы можете сделать это, выполнив:
 1. Клонируйте репозиторий:
 ```
-git clone https://github.com/Sogato/dota-rate.git
+git clone https://github.com/Sogato/pvis_lab1.git
 ```
 2. Создайте виртуальное окружение:
 ```
