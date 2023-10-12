@@ -25,7 +25,7 @@ def process_image(image_path, threshold, erosion_step):
     return result_image
 
 
-def lab1():
+def main():
     image_sizes = [(1024, 768), (1280, 960), (2048, 1536)]
     avg_time = 0  # Среднее время работы программы
     threshold = 150  # Порог интенсивности
@@ -50,4 +50,4 @@ def lab1():
 
 
 if __name__ == "__main__":
-    lab1()
+    main()
